@@ -6,7 +6,10 @@
 	<version>0.5.0-SNAPSHOT</version>
 
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>			<sonar.projectKey>Shotaos_ivt-lab</sonar.projectKey>
+		<sonar.organization>shotaos</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>8dc3162383d30b5e52e05fff794f3c6041f8ff7b</sonar.login>
 	</properties>
 
 	<dependencies>
